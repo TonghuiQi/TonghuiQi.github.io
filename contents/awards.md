@@ -1,4 +1,4 @@
-- Zhejiang Provincial Government Scholarship, 2021.
+- Government Scholarship of Zhejiang Province, 2021.
 
 - National Scholarship of Graduate Student, 2024.
 
