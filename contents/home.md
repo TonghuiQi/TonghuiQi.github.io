@@ -12,5 +12,5 @@ M.S., Applied Statistics, Capital Normal University, Sep 2022 - Jun 2025.\
 B.S., Data Science and Big Data Technology, Zhejiang University of Finance and Economics, Sep 2018 - Jun 2022.
 
 #### Research Interests
-AI Foundation Model, Machine Learning, Remote Sensing，vegetation dynamics, Decision Support Systems for Precision Agriculture.
+AI Foundation Model, Machine Learning, Remote Sensing，Vegetation Dynamics, Decision Support Systems for Precision Agriculture.
 
