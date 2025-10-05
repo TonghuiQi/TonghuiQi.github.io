@@ -8,9 +8,9 @@ He is currently working as a research assistant at National Key Laboratory of Re
 tonghuiqi0107@gmail.com
 
 #### Education
-M.S., Applied Statistics, Capital Normal University, Sep 2022 - Jun 2025 .\
+M.S., Applied Statistics, Capital Normal University, Sep 2022 - Jun 2025.\
 B.S., Data Science and Big Data Technology, Zhejiang University of Finance and Economics, Sep 2018 - Jun 2022.
 
 #### Research Interests
-Machine Learning, Remote Sensing of Agricultural, Decision-Support Systems for Precision Agriculture.
+AI Foundation Model, Machine Learning, Remote Sensing，vegetation dynamics, Decision Support Systems for Precision Agriculture.
 
